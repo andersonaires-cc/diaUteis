@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "j5Ka62JW/Y//FYKUO1CBwQtZIVcw7UAoiZf85J4MHLZr9M0GzYCv8SOA3BKYi2spSC2cW6NCaY2vPNYNQhU1Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\09469790499\\Desktop\\atividadeCalendario\\calendarioAPI\\calendarioAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\09469790499\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\09469790499\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\09469790499\\.nuget\\packages\\nager.holiday\\1.0.1\\nager.holiday.1.0.1.nupkg.sha512",
+    "C:\\Users\\09469790499\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\09469790499\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\09469790499\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\09469790499\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\09469790499\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\09469790499\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\09469790499\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
