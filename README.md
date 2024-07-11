@@ -1,2 +1,2 @@
 # diaUteis
-Veiricando os dias úteis
+Veirificando os dias úteis e contando as horas
